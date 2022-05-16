@@ -4,5 +4,11 @@
 3) Lists Wifis(Access Points) available.
 4) Scans available wifi using WifiRTT api to get distance of the Device running this app from the various Access Points listed above
 
-Image of Wifi RTT Range Result
-<img src="https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-102659.png" width=600/>
+<table>
+  <tr><td>Wifi List</td><td>RTT Result</td></tr>
+<tr>
+  <td><img src="https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-100835.png" width=400/></td>
+  <td><img src="https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-102659.png" width=400/></td>
+</tr>
+  <tr><td colspan=2>Sensor list <img src="https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-110412.png" /></td></tr>  
+</table>
