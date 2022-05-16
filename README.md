@@ -5,4 +5,4 @@
 4) Scans available wifi using WifiRTT api to get distance of the Device running this app from the various Access Points listed above
 
 Image of Wifi RTT Range Result
-![Image of Wifi RTT Range Result](https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-102659.png)
+<img src="https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-102659.png" width=600/>
