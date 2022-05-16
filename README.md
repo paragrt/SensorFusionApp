@@ -7,8 +7,8 @@
 <table>
   <tr><td>Wifi List</td><td>RTT Result</td></tr>
 <tr>
-  <td><img src="https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-100835.png" width=400/></td>
-  <td><img src="https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-102659.png" width=400/></td>
+  <td><img src="https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-100835.png" width=300/></td>
+  <td><img src="https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-102659.png" width=300/></td>
 </tr>
-  <tr><td colspan=2>Sensor list <img src="https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-110412.png" /></td></tr>  
+  <tr><td colspan=2>Sensor list <br/> <img src="https://github.com/paragrt/SensorFusionApp/blob/master/Screenshot_20220516-110412.png" width=400/></td></tr>  
 </table>
